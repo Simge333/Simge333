@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Simge333/Simge333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a Computer Engineering student at Çanakkale Onsekiz Mart University.
+- 🌱 I’m currently learning game development.
+- 👯 I’m looking to collaborate on game development.
+###                                                   
+###
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Simge333&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simge333&theme=blue-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Simge333&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Simge333) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kaqlansimgee7/) 
