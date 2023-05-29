@@ -9,7 +9,7 @@
 
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simge333&theme=blue-green)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Simge333&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 
